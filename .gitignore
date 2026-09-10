@@ -5,3 +5,4 @@
 *.tfvars
 crash.log
 kubeconfig
+kind-cluster-config
